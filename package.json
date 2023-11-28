@@ -1,6 +1,6 @@
 {
-  "homepage": "http://veetektest.wz.cz/dog_shelter",
-  "name": "dog_shelter",
+  "homepage": "https://github.com/LukasRaider/Shellter",
+  "name": "dog_shellter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
