@@ -14,9 +14,9 @@ export default function Home() {
     const [valid, setValid] = useState(false);
     const [activeTab, setActiveTab] = useState('list-of-dogs');
     const [shelterStorage, setShelterStorage] = useState({
-        food: 35,
-        vaccine: 15,
-        pills: 20
+        food: 55,
+        vaccine: 25,
+        pills: 25
     });
     const [tempStorage, setTempStorage] = useState({
         food: "",
@@ -182,7 +182,7 @@ export default function Home() {
                     <h3>Aktuální zásoby</h3>
                     <p>granule: {shelterStorage.food} kg</p>
                     <p>vakcíny: {shelterStorage.vaccine} ks</p>
-                    <p>medikamenty: {shelterStorage.pills} ks</p>
+                    <p>léky: {shelterStorage.pills} ks</p>
                     <ShelterForm>
                         <Input
                             type='number'
@@ -211,7 +211,7 @@ export default function Home() {
                         <Button
                             onClick={updateStorage}
                         >
-                            Doplnit zásoby
+                            Doplňte zásoby
                         </Button>
                     </ShelterForm>
                 </>
