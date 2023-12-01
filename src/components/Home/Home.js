@@ -15,7 +15,7 @@ export default function Home() {
     const [activeTab, setActiveTab] = useState('list-of-dogs');
     const [shelterStorage, setShelterStorage] = useState({
         food: 55,
-        vaccine: 25,
+        vaccine:35,
         pills: 25
     });
     const [tempStorage, setTempStorage] = useState({

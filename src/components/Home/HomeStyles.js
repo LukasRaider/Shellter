@@ -7,7 +7,7 @@ export const PageContainer = styled.div`
   min-height: 100vh;
   width: 100%;
   align-items: center;
-  background-color: #64766a;
+  background-color: #3399ff;//#64766a
 `;
 
 export const DogList = styled.div`
@@ -26,7 +26,7 @@ export const DogItem = styled.div`
   justify-content: space-between;
   background-color: #f4f2f3;
   &:nth-child(even) {
-    background-color: #c0a9bd;
+    background-color: #66ffcc;//#c0a9bd
   }
 `;
 
