@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LukasRaider/Shellter/static/css/main.ec0a9a23.css",
+    "main.js": "/LukasRaider/Shellter/static/js/main.048ce468.js",
+    "static/js/787.8f044b08.chunk.js": "/LukasRaider/Shellter/static/js/787.8f044b08.chunk.js",
+    "index.html": "/LukasRaider/Shellter/index.html",
+    "main.ec0a9a23.css.map": "/LukasRaider/Shellter/static/css/main.ec0a9a23.css.map",
+    "main.048ce468.js.map": "/LukasRaider/Shellter/static/js/main.048ce468.js.map",
+    "787.8f044b08.chunk.js.map": "/LukasRaider/Shellter/static/js/787.8f044b08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec0a9a23.css",
+    "static/js/main.048ce468.js"
+  ]
+}
