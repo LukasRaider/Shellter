@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/LukasRaider/Shellter/static/css/main.ec0a9a23.css",
-    "main.js": "/LukasRaider/Shellter/static/js/main.048ce468.js",
-    "static/js/787.8f044b08.chunk.js": "/LukasRaider/Shellter/static/js/787.8f044b08.chunk.js",
-    "index.html": "/LukasRaider/Shellter/index.html",
-    "main.ec0a9a23.css.map": "/LukasRaider/Shellter/static/css/main.ec0a9a23.css.map",
-    "main.048ce468.js.map": "/LukasRaider/Shellter/static/js/main.048ce468.js.map",
-    "787.8f044b08.chunk.js.map": "/LukasRaider/Shellter/static/js/787.8f044b08.chunk.js.map"
+    "main.css": "/LukasRaider/Dog_Shelter/static/css/main.ec0a9a23.css",
+    "main.js": "/LukasRaider/Dog_Shelter/static/js/main.74e1cc9a.js",
+    "static/js/787.28cb2c38.chunk.js": "/LukasRaider/Dog_Shelter/static/js/787.28cb2c38.chunk.js",
+    "index.html": "/LukasRaider/Dog_Shelter/index.html",
+    "main.ec0a9a23.css.map": "/LukasRaider/Dog_Shelter/static/css/main.ec0a9a23.css.map",
+    "main.74e1cc9a.js.map": "/LukasRaider/Dog_Shelter/static/js/main.74e1cc9a.js.map",
+    "787.28cb2c38.chunk.js.map": "/LukasRaider/Dog_Shelter/static/js/787.28cb2c38.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ec0a9a23.css",
-    "static/js/main.048ce468.js"
+    "static/js/main.74e1cc9a.js"
   ]
 }
