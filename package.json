@@ -1,7 +1,7 @@
 {
-  "homepage": "https://github.com/LukasRaider/Shellter",
+  "homepage": "https://github.com/LukasRaider/Dog_Shelter",
 
-  "name": "shellter",
+  "name": "Dog_Shelter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
